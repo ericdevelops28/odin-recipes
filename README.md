@@ -1,1 +1,2 @@
 # odin-recipes
+Hello! This will be my first official Odin Project that I will be publishing to my Github! With this project, I will be implementing all the skills I have learned about git, github, and html and will be putting my knowledge to the test. Keep in mind, I will only be implementing and using basic html skills to complete this project recipe. Later in the course, as mentioned, we will be using css to add more life to the project, but for now, its just about getting my feet wet, and creating my first project!
